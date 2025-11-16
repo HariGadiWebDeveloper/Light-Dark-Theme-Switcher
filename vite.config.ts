@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"/Light-Dark-Theme-Switcher/"   //repo name exactly
+  base:"/Light-Dark-Theme-Switcher-ContextAPI2/"   //repo name exactly
 })
